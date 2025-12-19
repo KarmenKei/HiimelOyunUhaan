@@ -1,0 +1,14 @@
+﻿Image,Preprocess,CharAccuracy(%),WordF1(%),OCR_Output,GT_Text
+handwritten1.jpg,otsu,87.67,66.67,"We Staet With Good
+Gecause all businesses should
+be doing Semuthing geod.","We start with Good
+Because all businesses should be doing something good."
+handwritten2.jpg,none,92.73,90.91,"This is a handwritten
+example
+Write as geoal as you can.","This is a handwritten example
+Write as good as you can."
+handwritten3.jpg,blur_otsu,27.36,43.24,"Tus IS AN EXAMPLE OF MY AcTeAL
+Last WRITING, | PRIST Ts war. Because
+My ¢
+VDRSIVE IS ViRTOMU Unt ADARLE..","This is an example of my actual handwriting.
+I print this way. Because my cursive is virtually unreadable."
